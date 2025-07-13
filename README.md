@@ -10,7 +10,6 @@ We checked for missing values in the dataset and removed rows with missing data,
 
 ## Data Visualization
 
-
 ### Top 10 Highest Earning Professions
 ![Gender Distribution](images/Top10.png)
 *A Bar plot depicting the highest paying job titles versus the mean salary.*
@@ -52,7 +51,7 @@ In conclusion, the Random Forest model demonstrated the best predictive capabili
 
 The model evaluation and feature importance analysis provided valuable insights for understanding salary determinants and highlighted the importance of choosing the appropriate machine learning model for regression tasks.
 
-This salary prediction model can be used to make informed salary estimates based on individual characteristics, making it a valuable tool for HR analytics and compensation planning.In conclusion, our salary prediction model, trained on a well-preprocessed dataset, successfully predicts salaries based on various factors. This project demonstrates the importance of data preprocessing, feature engineering, and model selection in creating an accurate predictive model.
+This salary prediction model can be used to make informed salary estimates based on individual characteristics, making it a valuable tool for HR analytics and compensation planning. In conclusion, our salary prediction model, trained on a well-preprocessed dataset, successfully predicts salaries based on various factors. This project demonstrates the importance of data preprocessing, feature engineering, and model selection in creating an accurate predictive model.
 
 ## Usage
 
@@ -61,4 +60,3 @@ To use our salary prediction model, you can follow these steps:
 1. Clone this repository.
 2. Install the required libraries listed in the `requirements.txt` file.
 3. Run the provided Jupyter notebook or Python script to load the model and make predictions on new data.
-
